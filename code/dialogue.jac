@@ -262,6 +262,5 @@ walker talk {
 walker init {
     root {
         spawn here ++> graph::tesla_ai;
-        spawn here walker::talk;
     }
 }
