@@ -1,0 +1,11 @@
+Code can be found at: https://github.com/Ferruolo/Conv_AI_intro
+
+
+Completeting this assignment helped me better understand the Jaseci
+framework and gave me a better idea of how to implement
+my final AI. Specifically, I learned how to easily implement models,
+create graphs, and integrate two models together seamlessly using the
+jaseci system. Although I do not think this is all I will
+need to do for my AI, there is a lot of additional machine learning
+outside of text API that needs to be completed, I believe that this will
+prove to be a strong start.
